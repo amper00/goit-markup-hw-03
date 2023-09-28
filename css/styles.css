@@ -299,9 +299,9 @@ img {
   padding-top: 24px;
   padding-bottom: 24px;
 }
-.section_2 {
+.sectionn_ {
   display: flex;
-  padding-top: 120px 0;
+  padding: 120px 0;
 }
 .visually-hidden {
   position: absolute;
