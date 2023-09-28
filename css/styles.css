@@ -262,3 +262,9 @@ body {
 img {
   display: block;
 }
+.border-header-bottom {
+  border-bottom: 1px solid #e7e9fc;
+}
+.container {
+  display: flex;
+}
