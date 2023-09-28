@@ -176,6 +176,7 @@ body {
   line-height: 24px;
   /* 120% */
   letter-spacing: 0.4px;
+  margin-bottom: 8px;
 }
 .describtionss {
   color: var(--SLATE, #434455);
@@ -302,6 +303,7 @@ img {
 .sectionn_ {
   display: flex;
   padding: 120px 0;
+  gap: 24px;
 }
 .visually-hidden {
   position: absolute;
@@ -315,4 +317,7 @@ img {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
+}
+.calc {
+  width: calc(100% - 72px) / 4;
 }
