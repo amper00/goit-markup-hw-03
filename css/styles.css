@@ -51,6 +51,7 @@ body {
   color: #ffffff;
 }
 .hero {
+  padding: 188px 0;
   background: var(--styl-colorrr);
 }
 .color {
