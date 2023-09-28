@@ -318,6 +318,3 @@ img {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-.calc {
-  width: calc(100% - 72px) / 4;
-}
