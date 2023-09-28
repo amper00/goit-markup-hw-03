@@ -132,6 +132,8 @@ body {
   line-height: 24px;
   /* 150% */
   letter-spacing: 0.32px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .address {
   color: var(--SLATE, #434455);
