@@ -42,6 +42,7 @@ body {
 }
 .list {
   list-style: none;
+  display: flex;
 }
 .top {
   font-size: 56px;
@@ -204,7 +205,6 @@ body {
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
-
 .bak {
   background-color: #f4f4fd;
 }
@@ -320,4 +320,7 @@ img {
 }
 .calc {
   flex-basis: calc((100% - 72px) / 4);
+}
+.sectionnn_ {
+  padding-bottom: 120px;
 }
