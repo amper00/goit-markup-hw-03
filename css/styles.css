@@ -398,3 +398,6 @@ img {
 .portfolio button:focus {
   border: 1px solid transparent;
 }
+.last_list {
+  flex-wrap: wrap;
+}
