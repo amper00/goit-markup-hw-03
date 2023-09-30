@@ -5,6 +5,7 @@
   --styl-colorrr: #2e2f42;
   --background-colorr: #f4f4fd;
   --background-colorrr: #2e2f42;
+  --button-color: #e7e9fc;
 }
 .buttonn {
   cursor: pointer;
@@ -385,4 +386,14 @@ img {
 }
 .portfolio_up {
   justify-content: center;
+}
+.portfolio button {
+  padding: 12px 24px;
+  border: 1px solid var(--button-color);
+}
+.portfolio button:hover {
+  border: 1px solid transparent;
+}
+.portfolio button:focus {
+  border: 1px solid transparent;
 }
