@@ -339,7 +339,10 @@ img {
   border-radius: 0px 0px 4px 4px;
 }
 .worker_ {
-  padding: 32px 16px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 .nowa {
   width: calc((100% - 72px) / 4);
