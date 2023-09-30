@@ -362,3 +362,6 @@ img {
 .list img {
   display: inline-block;
 }
+.calc_ li {
+  width: calc((100% - 48px) / 3);
+}
