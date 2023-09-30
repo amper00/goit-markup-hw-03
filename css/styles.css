@@ -400,4 +400,5 @@ img {
 }
 .last_list {
   flex-wrap: wrap;
+  row-gap: 48;
 }
