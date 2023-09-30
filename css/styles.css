@@ -86,7 +86,7 @@ body {
 }
 .link {
   text-decoration: none;
-  display: inline-block;
+
   margin-bottom: 16px;
 }
 .link:hover {
@@ -354,4 +354,11 @@ img {
 
 .bakk li {
   width: calc((100% - 72px) / 4);
+}
+.inline {
+  display: inline-block;
+}
+
+.list img {
+  display: inline-block;
 }
