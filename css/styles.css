@@ -82,6 +82,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   background-color: var(--background-colorrr);
+  padding: 100px 0;
 }
 .link {
   text-decoration: none;
