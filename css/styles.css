@@ -214,7 +214,6 @@ body {
 .bakk {
   width: calc((100% - 72px) / 4);
   background-color: #ffffff;
-  border-radius: 0px 0px 4px 4px;
 }
 .team {
   color: var(--NAVY-BLUE, #2e2f42);
@@ -244,6 +243,7 @@ body {
   line-height: 24px;
   /* 120% */
   letter-spacing: 0.4px;
+  margin-bottom: 8px;
 }
 .job {
   color: var(--SLATE, #434455);
@@ -338,4 +338,7 @@ img {
 }
 .bakk img {
   border-radius: 0px 0px 4px 4px;
+}
+.worker_ {
+  padding: 32px 16px;
 }
