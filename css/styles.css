@@ -212,7 +212,6 @@ body {
   background-color: #f4f4fd;
 }
 .bakk {
-  width: calc((100% - 72px) / 4);
   background-color: #ffffff;
 }
 .team {
@@ -345,4 +344,8 @@ img {
 .nowa {
   width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
+}
+
+.bakk li {
+  width: calc((100% - 72px) / 4);
 }
