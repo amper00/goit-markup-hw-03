@@ -358,9 +358,8 @@ img {
 .inline {
   display: inline-block;
 }
-
-.list img {
-  display: inline-block;
+img {
+  display: block;
 }
 .calc_ li {
   width: calc((100% - 48px) / 3);
