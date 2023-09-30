@@ -55,7 +55,7 @@ body {
   max-width: 496px;
 }
 .hero {
-  padding: 188px 0;
+  padding: 120px 0;
   background: var(--styl-colorrr);
 }
 .color {
@@ -227,6 +227,7 @@ body {
 
   letter-spacing: 0.72px;
   text-transform: capitalize;
+  padding-bottom: 72px;
 }
 .name {
   color: var(--NAVY-BLUE, #2e2f42);
@@ -328,5 +329,8 @@ img {
   padding-bottom: 120px;
 }
 .calc_ {
-  width: calc((100% - 48px) / 3);
+  flex-basis: calc((100% - 48px) / 3);
+}
+.what {
+  padding: 120px 0;
 }
