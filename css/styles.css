@@ -364,3 +364,6 @@ img {
 .calc_ li {
   width: calc((100% - 48px) / 3);
 }
+.container__ {
+  display: inline-block;
+}
