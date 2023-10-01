@@ -344,7 +344,7 @@ img {
 .bakk img {
   border-radius: 0px 0px 4px 4px;
 }
-.worker_ div {
+.worker_ {
   padding-top: 32px;
   padding-bottom: 32px;
   padding-left: 16px;
@@ -423,4 +423,7 @@ img {
 }
 .block {
   display: inline-block;
+}
+.divek {
+  padding: 32px 16px;
 }
