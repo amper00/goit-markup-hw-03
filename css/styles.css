@@ -420,6 +420,7 @@ img {
 }
 .flex {
   display: flex;
+  flex-direction: column;
 }
 .block {
   display: inline-block;
