@@ -73,6 +73,7 @@ body {
   /* 116.667% */
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  align-items: center;
 }
 .webb {
   font-family: "Raleway", sans-serif;
