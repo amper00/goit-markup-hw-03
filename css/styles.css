@@ -421,3 +421,6 @@ img {
 .flex {
   display: flex;
 }
+.block {
+  display: inline-block;
+}
