@@ -147,9 +147,12 @@ body {
   letter-spacing: 0.32px;
   padding-top: 24px;
   padding-bottom: 24px;
+  gap: 40px;
 }
 
 .address {
+  display: flex;
+  justify-content: center;
   color: var(--SLATE, #434455);
 
   font-family: Roboto;
@@ -309,7 +312,7 @@ img {
   align-items: center;
 }
 .logo {
-  margin-right: 60px;
+  margin-right: 76px;
 }
 .container_menu {
   display: flex;
