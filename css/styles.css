@@ -445,7 +445,7 @@ img {
   flex-direction: column;
 }
 .block {
-  display: inline-block;
+  margin-bottom: 16px;
 }
 .divek {
   padding: 32px 16px;
