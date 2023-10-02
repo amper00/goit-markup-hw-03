@@ -454,3 +454,6 @@ img {
 .fix {
   margin-bottom: 8px;
 }
+.hero button {
+  padding-top: 48px;
+}
