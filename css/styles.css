@@ -148,19 +148,19 @@ body {
   padding-top: 24px;
   padding-bottom: 24px;
 }
+
 .address {
   color: var(--SLATE, #434455);
 
-  /* Body */
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  /* 150% */
+
   letter-spacing: 0.32px;
 }
-/* komentarz */
+
 .button {
   cursor: pointer;
   background-color: #4d5ae5;
@@ -299,7 +299,6 @@ img {
 }
 .border-header-bottom {
   border-bottom: 1px solid #e7e9fc;
-  align-items: center;
 
   height: 72px;
 }
@@ -310,7 +309,7 @@ img {
   align-items: center;
 }
 .logo {
-  margin-right: 76px;
+  margin-right: 60px;
 }
 .container_menu {
   display: flex;
@@ -455,10 +454,11 @@ img {
   display: flex;
   gap: 332px;
 }
+/*
 .allign header {
   justify-content: center;
 }
-
+*/
 .pad {
   padding-top: 48px;
 }
