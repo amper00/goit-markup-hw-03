@@ -1,3 +1,8 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 :root {
   --styl-color: #434455;
   --background-color: #ffffff;
@@ -89,8 +94,6 @@ body {
 }
 .link {
   text-decoration: none;
-
-  margin-bottom: 16px;
 }
 .link:hover {
   color: #404bbf;
@@ -288,6 +291,9 @@ img {
 }
 .border-header-bottom {
   border-bottom: 1px solid #e7e9fc;
+  align-items: center;
+  width: 1440px;
+  height: 72px;
 }
 .container {
   width: 1158px;
@@ -433,4 +439,10 @@ img {
 }
 .flex__ {
   display: flex;
+}
+.allign header {
+  justify-content: center;
+}
+.proba {
+  justify-content: flex-start;
 }
