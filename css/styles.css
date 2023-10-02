@@ -319,7 +319,10 @@ img {
 
   padding-top: 24px;
   padding-bottom: 24px;
+  list-style: none;
+  gap: 40px;
 }
+
 .container_menuu {
   padding-top: 24px;
   padding-bottom: 24px;
@@ -455,9 +458,7 @@ img {
 .allign header {
   justify-content: center;
 }
-.proba {
-  justify-content: flex-end;
-}
+
 .pad {
   padding-top: 48px;
 }
