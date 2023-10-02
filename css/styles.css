@@ -397,6 +397,7 @@ img {
 }
 .portfolio_up {
   justify-content: center;
+  margin-bottom: 72px;
 }
 .portfolio button {
   padding: 12px 24px;
