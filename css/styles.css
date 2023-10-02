@@ -338,6 +338,7 @@ img {
   flex-basis: calc((100% - 72px) / 4);
 }
 .sectionnn_ {
+  padding-bottom: 120px;
 }
 .calc_ {
   width: calc((100% - 3 * 16px) / 3);
@@ -345,6 +346,7 @@ img {
 .what {
   background-color: #f4f4fd;
   padding: 120px 0;
+  margin-bottom: 120px;
 }
 .bakk img {
   border-radius: 0px 0px 4px 4px;
