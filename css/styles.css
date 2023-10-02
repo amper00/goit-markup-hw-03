@@ -451,6 +451,9 @@ img {
 .takietam {
   width: calc((100% - 48px) / 3);
 }
+.takietam li {
+  width: calc((100% - 48px) / 3);
+}
 .flex__ {
   display: flex;
   gap: 332px;
