@@ -267,11 +267,18 @@ body {
   /* 150% */
   letter-spacing: 0.32px;
 }
+
 .footer {
   color: var(--background-colorr);
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  width: 264px;
 }
+
 .last {
   font-weight: 500;
   font-size: 20px;
@@ -285,7 +292,6 @@ body {
   letter-spacing: 0.02em;
   font-size: 16px;
   color: var(--styl-color);
-  
 }
 img {
   display: block;
@@ -293,7 +299,7 @@ img {
 .border-header-bottom {
   border-bottom: 1px solid #e7e9fc;
   align-items: center;
-  width: 1440px;
+
   height: 72px;
 }
 .container {
@@ -307,10 +313,9 @@ img {
 }
 .container_menu {
   display: flex;
-  width: 1158px;
-  margin: 0 auto;
+
   align-items: center;
-  gap: 40px;
+
   padding-top: 24px;
   padding-bottom: 24px;
 }
@@ -444,6 +449,7 @@ img {
 }
 .flex__ {
   display: flex;
+  gap: 332px;
 }
 .allign header {
   justify-content: center;
